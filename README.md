@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: ANGGARA SAPUTRA  
+**Nama Mahasiswa**: ANGGARA SAPUTRA   
 **NRP**: 5025211241  
-**Judul TA**: PENGEMBANGAN FITUR PENGENALAN SUARA HEWAN PADA APLIKASI ZOOSITE MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK (CNN)
-**Dosen Pembimbing**: Ir. Adhatus Solichah Ahmadiyah, S.Kom., M.Sc.
-**Dosen Ko-pembimbing**: Ilham Gurat Adillion S.Kom., M.Eng.
+**Judul TA**: PENGEMBANGAN FITUR PENGENALAN SUARA HEWAN PADA APLIKASI ZOOSITE MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK (CNN)  
+**Dosen Pembimbing**: Ir. Adhatus Solichah Ahmadiyah, S.Kom., M.Sc.  
+**Dosen Ko-pembimbing**: Ilham Gurat Adillion S.Kom., M.Eng.  
 
 ## System Architecture
 
